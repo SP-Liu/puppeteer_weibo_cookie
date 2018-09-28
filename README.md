@@ -1,0 +1,2 @@
+# puppeteer_weibo_cookie
+使用puppeteer获取、更新微博cookie
